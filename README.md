@@ -1,2 +1,2 @@
 # TestJenkinsBlueOcean
-TestJenkinsBlueOcean Demo Pipeline
+TestJenkinsBlueOcean Demo Pipeline for release branch
